@@ -25,7 +25,7 @@ Hi guys, I'm **Alejandro Cañada**. I am a computer science student and software
 - [**RAE Scrapper**](https://github.com/Alex44lel/RAE-Scraper): Scrappy scraper that obtaings all words and definitions from a Spanish famous public dictionary
 
 
-## 🤖 Other technologies i have used</h2>
+## 🤖 Other technologies I have used</h2>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
