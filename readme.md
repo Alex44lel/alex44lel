@@ -3,7 +3,7 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)  
+![status](https://img.shields.io/badge/status-up-brightgreen)
 
 Hi guys, I'm **Alejandro Cañada**. I am a computer science student and software developer. I have more than **3 years of experience** developing mostly full stack applications and also leading small software teams!
 
@@ -20,7 +20,7 @@ Hi guys, I'm **Alejandro Cañada**. I am a computer science student and software
 
 ## 💡 Projects
 
-- [**Unigow**](https://unigow.com/): Platform that connects students, 14k signed up users, 50k revenue in 3 years. CEO and CTO during these 3 years 
+- [**Unigow**](https://unigow.com/): Platform that connects students, 14000 signed up users, 50k revenue in 3 years. CEO and CTO during these 3 years 
 - [**Birthday Manager**](https://www.birthdaymg.com/): Google app scripts script that automate birthdays usign google sheets and calendar
 - [**RAE Scrapper**](https://github.com/Alex44lel/RAE-Scraper): Scrappy scraper that obtaings all words and definitions from a Spanish famous public dictionary
 
