@@ -7,7 +7,7 @@
 
 Hi guys, I'm **Alejandro Cañada**. I am a computer science student and software developer. I have more than **3 years of experience** developing mostly full stack applications and also leading small software teams!
 
-## 🚀 Technologies i use the most
+## 🚀 Technologies I use the most
 <p align="left">
 <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
