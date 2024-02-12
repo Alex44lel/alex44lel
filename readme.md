@@ -33,4 +33,4 @@ Hi guys, I'm **Alejandro Cañada**. I am a computer science student and software
 
 ## 📫 Contact me
 
-Text me through ✉️ [Email](mailto:alejandroch2011@gmail.com) | 💬 [Linkedin](https://www.linkedin.com/in/alejandroca%C3%B1adahinojosa/) Me about everything!
+Text me through ✉️ [Email](mailto:alejandroch2011@gmail.com) | 💬 [Linkedin](https://www.linkedin.com/in/alejandroca%C3%B1adahinojosa/) 
