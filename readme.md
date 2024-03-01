@@ -5,7 +5,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-Hi guys, I'm **Alejandro Cañada**. I am a computer science student and software developer. I have more than **3 years of experience** developing mostly full stack applications and also leading small software teams!
+Hi guys, I'm **Alejandro Cañada**. I am a computer science student with interest in AI
 
 ## 🚀 Technologies I can use
 <p align="left">
