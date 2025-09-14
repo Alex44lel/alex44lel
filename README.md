@@ -31,4 +31,4 @@ Hi guys. I am a computer engineer specialized in artificial intelligence.
 
 ## 📫 Contact me
 
-Text me through ✉️ [Email](mailto:alejandroch2011@gmail.com) | 💬 [Linkedin](https://www.linkedin.com/in/alejandroca%C3%B1adahinojosa/) 
+Text me through ✉️ [Email](mailto:alejandroch2011@gmail.com) | 💬 [Linkedin](https://www.linkedin.com/in/alexch04) 
